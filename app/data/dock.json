@@ -1,0 +1,175 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "dockID": "8",
+                "name": "Ho Chi Minh Port",
+                "city": "Ho Chi Minh",
+                "country": "Vietnam",
+                "capacity": 120000
+            },
+            "geometry": {
+                "coordinates": [
+                    107.07983327742738,
+                    10.34476589174136
+                ],
+                "type": "Point"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "dockID": "9",
+                "name": "Jakarta International Port",
+                "city": "Jakarta",
+                "country": "Indonesia",
+                "capacity": 90000
+            },
+            "geometry": {
+                "coordinates": [
+                    102.8322,
+                    1.2843
+                ],
+                "type": "Point"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "dockID": "5",
+                "name": "Bangkok Port",
+                "city": "Bangkok",
+                "country": "Thailand",
+                "capacity": 100000
+            },
+            "geometry": {
+                "coordinates": [
+                    100.88665200117731,
+                    12.929216048860255
+                ],
+                "type": "Point"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "dockID": "1",
+                "name": "Manila International Container Terminal",
+                "city": "Manila",
+                "country": "Philippines",
+                "capacity": 200000
+            },
+            "geometry": {
+                "coordinates": [
+                    120.5117144348061,
+                    14.484677178686852
+                ],
+                "type": "Point"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "dockID": "2",
+                "name": "Singapore Port",
+                "city": "Singapore",
+                "country": "Singapore",
+                "capacity": 600000
+            },
+            "geometry": {
+                "coordinates": [
+                    103.8198,
+                    1.3521
+                ],
+                "type": "Point"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "dockID": "3",
+                "name": "Tokyo International Port",
+                "city": "Tokyo",
+                "country": "Japan",
+                "capacity": 150000
+            },
+            "geometry": {
+                "coordinates": [
+                    139.6917,
+                    35.6895
+                ],
+                "type": "Point"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "dockID": "4",
+                "name": "Hong Kong International Terminals",
+                "city": "Hong Kong",
+                "country": "Hong Kong",
+                "capacity": 300000
+            },
+            "geometry": {
+                "coordinates": [
+                    114.21947588497164,
+                    22.199594234155143
+                ],
+                "type": "Point"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "dockID": "6",
+                "name": "Davao Port",
+                "city": "Davao",
+                "country": "Philippines",
+                "capacity": 80000
+            },
+            "geometry": {
+                "coordinates": [
+                    125.621,
+                    7.0684
+                ],
+                "type": "Point"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "dockID": "7",
+                "name": "Busan Port",
+                "city": "Seoul",
+                "country": "South Korea",
+                "capacity": 250000
+            },
+            "geometry": {
+                "coordinates": [
+                    126.978,
+                    37.5665
+                ],
+                "type": "Point"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "dockID": "10",
+                "name": "Shanghai International Port",
+                "city": "Shanghai",
+                "country": "China",
+                "capacity": 500000
+            },
+            "geometry": {
+                "coordinates": [
+                    121.4913,
+                    31.2381
+                ],
+                "type": "Point"
+            }
+        }
+    ]
+}

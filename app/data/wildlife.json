@@ -1,0 +1,100 @@
+[
+    {
+        "location": "serengeti",
+        "bearing": 27,
+        "center": [34.8233, -2.3333],
+        "zoom":12,  
+        "speed": 0.6,     
+        "pitch": 20,
+        "description": "The Serengeti is home to one of the most spectacular wildlife events on Earth—the Great Migration. Over 1.5 million wildebeest and hundreds of thousands of zebras and gazelles move through the plains in search of fresh grazing lands. This vast ecosystem supports large populations of predators, including lions, hyenas, and cheetahs.",
+        "wildlife": ["wildebeest", "zebras", "gazelles", "lions", "hyenas", "cheetahs"]
+    },
+    {
+        "location": "galapagos",
+        "duration": 6000,
+        "center": [-90.249650, -0.568999],
+        "bearing": 150,
+        "zoom":12,
+        "speed": 0.6,      
+        "pitch": 0,
+        "description": "The Galápagos Islands are a living museum of evolutionary history. These volcanic islands are home to species found nowhere else on the planet, such as the giant tortoise, marine iguana, and Darwin's finches. The isolation of these islands has led to the evolution of species uniquely adapted to their environment.",
+        "wildlife": ["giant tortoise", "marine iguana", "Darwin's finches"]
+    },
+    {
+        "location": "amazon",
+        "bearing": 90,
+        "center": [-63.4489, -3.4653],
+        "zoom":12,       
+        "speed": 0.6,
+        "pitch": 40,
+        "description": "The Amazon Rainforest is the world’s largest tropical rainforest, teeming with incredible biodiversity. It’s home to more than 10% of the world's known species, including jaguars, sloths, and pink river dolphins. The Amazon plays a crucial role in regulating the Earth’s climate and is often referred to as the 'lungs of the planet.'",
+        "wildlife": ["jaguars", "sloths", "pink river dolphins"]
+    },
+    {
+        "location": "great-barrier-reef",
+        "bearing": 90,
+        "center": [147.6992, -18.2871],
+        "zoom":12,
+        "speed": 0.6,
+        "pitch": 40,
+        "description": "The Great Barrier Reef is the world’s largest coral reef system, stretching over 2,300 kilometers. This UNESCO World Heritage site is home to a diverse range of marine life, including more than 1,500 species of fish, 400 species of coral, and endangered species like the dugong and green sea turtle.",
+        "wildlife": ["fish", "coral", "dugong", "green sea turtle"]
+    },
+    {
+        "location": "bwindi",
+        "bearing": 45,
+        "center": [29.6551, -1.0487],
+        "zoom":12,
+        "speed": 0.5,
+        "pitch": 20,
+        "description": "Bwindi Impenetrable Forest is a UNESCO World Heritage site and one of the most biologically diverse areas on Earth. It is renowned for its population of mountain gorillas, which make up nearly half of the world’s remaining gorillas. The forest is also home to over 350 species of birds and 200 species of butterflies.",
+        "wildlife": ["mountain gorillas", "birds", "butterflies"]
+    },
+    {
+        "location": "yellowstone",
+        "bearing": 180,
+        "center": [-110.5885, 44.4280],
+        "zoom":12,
+        "speed": 0.5,
+        "pitch": 40,
+        "description": "Yellowstone, the world’s first national park, is known for its geothermal features and diverse wildlife. The park is a haven for large mammals such as grizzly bears, wolves, and bison. The reintroduction of wolves in 1995 has had a profound impact on the ecosystem, showcasing the importance of apex predators.",
+        "wildlife": ["grizzly bears", "wolves", "bison"]
+    },
+    {
+        "location": "kruger",
+        "bearing": 90,
+        "center": [31.4848, -23.9884],
+        "zoom":12,
+        "pitch": 40,
+        "description": "Kruger National Park is one of Africa’s largest game reserves, offering a sanctuary for the 'Big Five': lions, leopards, rhinos, elephants, and buffalo. The park is also home to over 500 bird species and 147 species of mammals, making it one of the richest wildlife areas in Africa.",
+        "wildlife": ["lions", "leopards", "rhinos", "elephants", "buffalo", "birds", "mammals"]
+    },
+    {
+        "location": "sundarbans",
+        "bearing": 90,
+        "center": [89.1893, 21.9497],
+        "zoom":12,
+        "pitch": 20,
+        "description": "The Sundarbans is the largest mangrove forest in the world and a UNESCO World Heritage site. It is famous for its population of Bengal tigers, which have adapted to this unique coastal environment. The Sundarbans is also home to a variety of other wildlife, including saltwater crocodiles, spotted deer, and the endangered Ganges river dolphin.",
+        "wildlife": ["Bengal tigers", "saltwater crocodiles", "spotted deer", "Ganges river dolphin"]
+    },
+    {
+        "location": "masai-mara",
+        "bearing": 45,
+        "center": [35.2140, -1.4061],
+        "zoom":12,
+        "pitch": 20,
+        "speed": 0.5,
+        "description": "The Masai Mara is a world-renowned wildlife reserve, particularly famous for its annual wildebeest migration. Over a million wildebeest, along with zebras and gazelles, migrate from the Serengeti in search of greener pastures. The Mara is also a stronghold for predators like lions, leopards, and cheetahs.",
+        "wildlife": ["wildebeest", "zebras", "gazelles", "lions", "leopards", "cheetahs"]
+    },
+    {
+        "location": "madagascar",
+        "bearing": 90,
+        "center": [46.8691, -19.0203],
+        "zoom":12,
+        "pitch": 20,
+        "description": "Madagascar, the world’s fourth-largest island, is a biodiversity hotspot with over 90% of its wildlife found nowhere else on Earth. The island is home to unique species such as the lemur, fossa, and a staggering variety of chameleons. Madagascar’s isolation has allowed these species to evolve in ways that make the island one of the most fascinating places for wildlife.",
+        "wildlife": ["lemur", "fossa", "chameleons"]
+    }
+]

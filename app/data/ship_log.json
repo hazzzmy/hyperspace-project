@@ -1,0 +1,1661 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "timestamp": "2024-08-15T00:00:00Z",
+                "status": "Departed",
+                "signal": 1,
+                "shipID": 1,
+                "shipName": "Singboat",
+                "originDockId": "2",
+                "origin": "Singapore Port",
+                "destinationDockId": "1",
+                "destination": "Manila International Container Terminal",
+                "maxCapacity": 100,
+                "currentCapacity": 89
+            },
+            "geometry": {
+                "coordinates": [
+                    103.8198,
+                    1.3521
+                ],
+                "type": "Point"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "timestamp": "2024-08-15T01:00:00Z",
+                "status": "En Route",
+                "signal": 1,
+                "shipID": 1,
+                "shipName": "Singboat",
+                "originDockId": "2",
+                "origin": "Singapore Port",
+                "destinationDockId": "1",
+                "destination": "Manila International Container Terminal",
+                "maxCapacity": 100,
+                "currentCapacity": 89
+            },
+            "geometry": {
+                "coordinates": [
+                    105.4418,
+                    1.4765
+                ],
+                "type": "Point"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "timestamp": "2024-08-15T02:00:00Z",
+                "status": "En Route",
+                "signal": 1,
+                "shipID": 1,
+                "shipName": "Singboat",
+                "originDockId": "2",
+                "origin": "Singapore Port",
+                "destinationDockId": "1",
+                "destination": "Manila International Container Terminal",
+                "maxCapacity": 100,
+                "currentCapacity": 89
+            },
+            "geometry": {
+                "coordinates": [
+                    106.8007,
+                    1.6683
+                ],
+                "type": "Point"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "timestamp": "2024-08-15T03:00:00Z",
+                "status": "En Route",
+                "signal": 1,
+                "shipID": 1,
+                "shipName": "Singboat",
+                "originDockId": "2",
+                "origin": "Singapore Port",
+                "destinationDockId": "1",
+                "destination": "Manila International Container Terminal",
+                "maxCapacity": 100,
+                "currentCapacity": 89
+            },
+            "geometry": {
+                "coordinates": [
+                    108.2355,
+                    1.9103
+                ],
+                "type": "Point"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "timestamp": "2024-08-15T04:00:00Z",
+                "status": "En Route",
+                "signal": 1,
+                "shipID": 1,
+                "shipName": "Singboat",
+                "originDockId": "2",
+                "origin": "Singapore Port",
+                "destinationDockId": "1",
+                "destination": "Manila International Container Terminal",
+                "maxCapacity": 100,
+                "currentCapacity": 89
+            },
+            "geometry": {
+                "coordinates": [
+                    109.74997095678567,
+                    2.6763076270285957
+                ],
+                "type": "Point"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "timestamp": "2024-08-15T05:00:00Z",
+                "status": "En Route",
+                "signal": 0,
+                "shipID": 1,
+                "shipName": "Singboat",
+                "originDockId": "2",
+                "origin": "Singapore Port",
+                "destinationDockId": "1",
+                "destination": "Manila International Container Terminal",
+                "maxCapacity": 100,
+                "currentCapacity": 89
+            },
+            "geometry": {
+                "coordinates": [
+                    109.74997095678567,
+                    2.6763076270285957
+                ],
+                "type": "Point"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "timestamp": "2024-08-15T06:00:00Z",
+                "status": "En Route",
+                "signal": 0,
+                "shipID": 1,
+                "shipName": "Singboat",
+                "originDockId": "2",
+                "origin": "Singapore Port",
+                "destinationDockId": "1",
+                "destination": "Manila International Container Terminal",
+                "maxCapacity": 100,
+                "currentCapacity": 89
+            },
+            "geometry": {
+                "coordinates": [
+                    109.74997095678567,
+                    2.6763076270285957
+                ],
+                "type": "Point"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "timestamp": "2024-08-15T07:00:00Z",
+                "status": "En Route",
+                "signal": 1,
+                "shipID": 1,
+                "shipName": "Singboat",
+                "originDockId": "2",
+                "origin": "Singapore Port",
+                "destinationDockId": "1",
+                "destination": "Manila International Container Terminal",
+                "maxCapacity": 100,
+                "currentCapacity": 89
+            },
+            "geometry": {
+                "coordinates": [
+                    112.94779045285136,
+                    4.712015738058074
+                ],
+                "type": "Point"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "timestamp": "2024-08-15T08:00:00Z",
+                "status": "En Route",
+                "signal": 1,
+                "shipID": 1,
+                "shipName": "Singboat",
+                "originDockId": "2",
+                "origin": "Singapore Port",
+                "destinationDockId": "1",
+                "destination": "Manila International Container Terminal",
+                "maxCapacity": 100,
+                "currentCapacity": 89
+            },
+            "geometry": {
+                "coordinates": [
+                    113.73338861570822,
+                    5.598215501199993
+                ],
+                "type": "Point"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "timestamp": "2024-08-15T09:00:00Z",
+                "status": "En Route",
+                "signal": 1,
+                "shipID": 1,
+                "shipName": "Singboat",
+                "originDockId": "2",
+                "origin": "Singapore Port",
+                "destinationDockId": "1",
+                "destination": "Manila International Container Terminal",
+                "maxCapacity": 100,
+                "currentCapacity": 89
+            },
+            "geometry": {
+                "coordinates": [
+                    114.63316709203984,
+                    6.515060193147731
+                ],
+                "type": "Point"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "timestamp": "2024-08-15T10:00:00Z",
+                "status": "En Route",
+                "signal": 1,
+                "shipID": 1,
+                "shipName": "Singboat",
+                "originDockId": "2",
+                "origin": "Singapore Port",
+                "destinationDockId": "1",
+                "destination": "Manila International Container Terminal",
+                "maxCapacity": 100,
+                "currentCapacity": 89
+            },
+            "geometry": {
+                "coordinates": [
+                    115.64206828308762,
+                    7.332527402462961
+                ],
+                "type": "Point"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "timestamp": "2024-08-15T11:00:00Z",
+                "status": "En Route",
+                "signal": 1,
+                "shipID": 1,
+                "shipName": "Singboat",
+                "originDockId": "2",
+                "origin": "Singapore Port",
+                "destinationDockId": "1",
+                "destination": "Manila International Container Terminal",
+                "maxCapacity": 100,
+                "currentCapacity": 89
+            },
+            "geometry": {
+                "coordinates": [
+                    116.54601504478848,
+                    8.69171923106002
+                ],
+                "type": "Point"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "timestamp": "2024-08-15T12:00:00Z",
+                "status": "En Route",
+                "signal": 1,
+                "shipID": 1,
+                "shipName": "Singboat",
+                "originDockId": "2",
+                "origin": "Singapore Port",
+                "destinationDockId": "1",
+                "destination": "Manila International Container Terminal",
+                "maxCapacity": 100,
+                "currentCapacity": 89
+            },
+            "geometry": {
+                "coordinates": [
+                    117.73857904216118,
+                    10.3437649217162
+                ],
+                "type": "Point"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "timestamp": "2024-08-15T13:00:00Z",
+                "status": "En Route",
+                "signal": 1,
+                "shipID": 1,
+                "shipName": "Singboat",
+                "originDockId": "2",
+                "origin": "Singapore Port",
+                "destinationDockId": "1",
+                "destination": "Manila International Container Terminal",
+                "maxCapacity": 100,
+                "currentCapacity": 89
+            },
+            "geometry": {
+                "coordinates": [
+                    118.68978544858203,
+                    11.861086748574436
+                ],
+                "type": "Point"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "timestamp": "2024-08-15T14:00:00Z",
+                "status": "En Route",
+                "signal": 1,
+                "shipID": 1,
+                "shipName": "Singboat",
+                "originDockId": "2",
+                "origin": "Singapore Port",
+                "destinationDockId": "1",
+                "destination": "Manila International Container Terminal",
+                "maxCapacity": 100,
+                "currentCapacity": 89
+            },
+            "geometry": {
+                "coordinates": [
+                    119.43732840881518,
+                    13.125022471809203
+                ],
+                "type": "Point"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "timestamp": "2024-08-15T15:00:00Z",
+                "status": "Arrived",
+                "signal": 1,
+                "shipID": 1,
+                "shipName": "Singboat",
+                "originDockId": "2",
+                "origin": "Singapore Port",
+                "destinationDockId": "1",
+                "destination": "Manila International Container Terminal",
+                "maxCapacity": 100,
+                "currentCapacity": 0
+            },
+            "geometry": {
+                "coordinates": [
+                    120.5117144348061,
+                    14.484677178686852
+                ],
+                "type": "Point"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "timestamp": "2024-08-15T16:00:00Z",
+                "status": "Anchored",
+                "signal": 1,
+                "shipID": 1,
+                "shipName": "Singboat",
+                "originDockId": "1",
+                "origin": "Manila International Container Terminal",
+                "destinationDockId": null,
+                "destination": null,
+                "maxCapacity": 100,
+                "currentCapacity": 0
+            },
+            "geometry": {
+                "coordinates": [
+                    120.5117144348061,
+                    14.484677178686852
+                ],
+                "type": "Point"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "timestamp": "2024-08-15T17:00:00Z",
+                "status": "Anchored",
+                "signal": 1,
+                "shipID": 1,
+                "shipName": "Singboat",
+                "originDockId": "1",
+                "origin": "Manila International Container Terminal",
+                "destinationDockId": null,
+                "destination": null,
+                "maxCapacity": 100,
+                "currentCapacity": 0
+            },
+            "geometry": {
+                "coordinates": [
+                    120.5117144348061,
+                    14.484677178686852
+                ],
+                "type": "Point"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "timestamp": "2024-08-15T18:00:00Z",
+                "status": "Anchored",
+                "signal": 1,
+                "shipID": 1,
+                "shipName": "Singboat",
+                "originDockId": "1",
+                "origin": "Manila International Container Terminal",
+                "destinationDockId": null,
+                "destination": null,
+                "maxCapacity": 100,
+                "currentCapacity": 0
+            },
+            "geometry": {
+                "coordinates": [
+                    120.5117144348061,
+                    14.484677178686852
+                ],
+                "type": "Point"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "timestamp": "2024-08-15T19:00:00Z",
+                "status": "Anchored",
+                "signal": 1,
+                "shipID": 1,
+                "shipName": "Singboat",
+                "originDockId": "1",
+                "origin": "Manila International Container Terminal",
+                "destinationDockId": null,
+                "destination": null,
+                "maxCapacity": 100,
+                "currentCapacity": 0
+            },
+            "geometry": {
+                "coordinates": [
+                    120.5117144348061,
+                    14.484677178686852
+                ],
+                "type": "Point"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "timestamp": "2024-08-15T20:00:00Z",
+                "status": "Anchored",
+                "signal": 1,
+                "shipID": 1,
+                "shipName": "Singboat",
+                "originDockId": "1",
+                "origin": "Manila International Container Terminal",
+                "destinationDockId": null,
+                "destination": null,
+                "maxCapacity": 100,
+                "currentCapacity": 0
+            },
+            "geometry": {
+                "coordinates": [
+                    120.5117144348061,
+                    14.484677178686852
+                ],
+                "type": "Point"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "timestamp": "2024-08-15T21:00:00Z",
+                "status": "Anchored",
+                "signal": 1,
+                "shipID": 1,
+                "shipName": "Singboat",
+                "originDockId": "1",
+                "origin": "Manila International Container Terminal",
+                "destinationDockId": null,
+                "destination": null,
+                "maxCapacity": 100,
+                "currentCapacity": 0
+            },
+            "geometry": {
+                "coordinates": [
+                    120.5117144348061,
+                    14.484677178686852
+                ],
+                "type": "Point"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "timestamp": "2024-08-15T22:00:00Z",
+                "status": "Anchored",
+                "signal": 1,
+                "shipID": 1,
+                "shipName": "Singboat",
+                "originDockId": "1",
+                "origin": "Manila International Container Terminal",
+                "destinationDockId": null,
+                "destination": null,
+                "maxCapacity": 100,
+                "currentCapacity": 0
+            },
+            "geometry": {
+                "coordinates": [
+                    120.5117144348061,
+                    14.484677178686852
+                ],
+                "type": "Point"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "timestamp": "2024-08-15T23:00:00Z",
+                "status": "Anchored",
+                "signal": 1,
+                "shipID": 1,
+                "shipName": "Singboat",
+                "originDockId": "1",
+                "origin": "Manila International Container Terminal",
+                "destinationDockId": null,
+                "destination": null,
+                "maxCapacity": 100,
+                "currentCapacity": 0
+            },
+            "geometry": {
+                "coordinates": [
+                    120.5117144348061,
+                    14.484677178686852
+                ],
+                "type": "Point"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "timestamp": "2024-08-15T00:00:00Z",
+                "status": "Anchored",
+                "shipID": 3,
+                "shipName": "Minhboat",
+                "signal": 1,
+                "originDockId": "8",
+                "origin": "Ho Chi Minh Port",
+                "destinationDockId": null,
+                "destination": null,
+                "maxCapacity": 80,
+                "currentCapacity": 0
+            },
+            "geometry": {
+                "coordinates": [
+                    107.08359748117249,
+                    10.3318697133883
+                ],
+                "type": "Point"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "timestamp": "2024-08-15T01:00:00Z",
+                "status": "Anchored",
+                "signal": 1,
+                "shipID": 3,
+                "shipName": "Minhboat",
+                "originDockId": "8",
+                "origin": "Ho Chi Minh Port",
+                "destinationDockId": null,
+                "destination": null,
+                "maxCapacity": 80,
+                "currentCapacity": 0
+            },
+            "geometry": {
+                "coordinates": [
+                    107.08359748117249,
+                    10.3318697133883
+                ],
+                "type": "Point"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "timestamp": "2024-08-15T02:00:00Z",
+                "status": "Anchored",
+                "signal": 1,
+                "shipID": 3,
+                "shipName": "Minhboat",
+                "originDockId": "8",
+                "origin": "Ho Chi Minh Port",
+                "destinationDockId": null,
+                "destination": null,
+                "maxCapacity": 80,
+                "currentCapacity": 0
+            },
+            "geometry": {
+                "coordinates": [
+                    107.08359748117249,
+                    10.3318697133883
+                ],
+                "type": "Point"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "timestamp": "2024-08-15T03:00:00Z",
+                "status": "Anchored",
+                "signal": 1,
+                "shipID": 3,
+                "shipName": "Minhboat",
+                "originDockId": "8",
+                "origin": "Ho Chi Minh Port",
+                "destinationDockId": null,
+                "destination": null,
+                "maxCapacity": 80,
+                "currentCapacity": 0
+            },
+            "geometry": {
+                "coordinates": [
+                    107.08359748117249,
+                    10.3318697133883
+                ],
+                "type": "Point"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "timestamp": "2024-08-15T04:00:00Z",
+                "status": "Anchored",
+                "signal": 1,
+                "shipID": 3,
+                "shipName": "Minhboat",
+                "originDockId": "8",
+                "origin": "Ho Chi Minh Port",
+                "destinationDockId": null,
+                "destination": null,
+                "maxCapacity": 80,
+                "currentCapacity": 0
+            },
+            "geometry": {
+                "coordinates": [
+                    107.08359748117249,
+                    10.3318697133883
+                ],
+                "type": "Point"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "timestamp": "2024-08-15T05:00:00Z",
+                "status": "Anchored",
+                "signal": 1,
+                "shipID": 3,
+                "shipName": "Minhboat",
+                "originDockId": "8",
+                "origin": "Ho Chi Minh Port",
+                "destinationDockId": null,
+                "destination": null,
+                "maxCapacity": 80,
+                "currentCapacity": 0
+            },
+            "geometry": {
+                "coordinates": [
+                    107.08359748117249,
+                    10.3318697133883
+                ],
+                "type": "Point"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "timestamp": "2024-08-15T06:00:00Z",
+                "status": "Anchored",
+                "signal": 1,
+                "shipID": 3,
+                "shipName": "Minhboat",
+                "originDockId": "8",
+                "origin": "Ho Chi Minh Port",
+                "destinationDockId": null,
+                "destination": null,
+                "maxCapacity": 80,
+                "currentCapacity": 0
+            },
+            "geometry": {
+                "coordinates": [
+                    107.08359748117249,
+                    10.3318697133883
+                ],
+                "type": "Point"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "timestamp": "2024-08-15T07:00:00Z",
+                "status": "Anchored",
+                "signal": 1,
+                "shipID": 3,
+                "shipName": "Minhboat",
+                "originDockId": "8",
+                "origin": "Ho Chi Minh Port",
+                "destinationDockId": null,
+                "destination": null,
+                "maxCapacity": 80,
+                "currentCapacity": 0
+            },
+            "geometry": {
+                "coordinates": [
+                    107.08359748117249,
+                    10.3318697133883
+                ],
+                "type": "Point"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "timestamp": "2024-08-15T08:00:00Z",
+                "status": "Anchored",
+                "signal": 1,
+                "shipID": 3,
+                "shipName": "Minhboat",
+                "originDockId": "8",
+                "origin": "Ho Chi Minh Port",
+                "destinationDockId": null,
+                "destination": null,
+                "maxCapacity": 80,
+                "currentCapacity": 0
+            },
+            "geometry": {
+                "coordinates": [
+                    107.08359748117249,
+                    10.3318697133883
+                ],
+                "type": "Point"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "timestamp": "2024-08-15T09:00:00Z",
+                "status": "Anchored",
+                "signal": 1,
+                "shipID": 3,
+                "shipName": "Minhboat",
+                "originDockId": "8",
+                "origin": "Ho Chi Minh Port",
+                "destinationDockId": null,
+                "destination": null,
+                "maxCapacity": 80,
+                "currentCapacity": 0
+            },
+            "geometry": {
+                "coordinates": [
+                    107.08359748117249,
+                    10.3318697133883
+                ],
+                "type": "Point"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "timestamp": "2024-08-15T10:00:00Z",
+                "status": "Departed",
+                "signal": 1,
+                "shipID": 3,
+                "shipName": "Minhboat",
+                "originDockId": "8",
+                "origin": "Ho Chi Minh Port",
+                "destinationDockId": "5",
+                "destination": "Bangkok Port",
+                "maxCapacity": 80,
+                "currentCapacity": 80
+            },
+            "geometry": {
+                "coordinates": [
+                    107.08359748117249,
+                    10.3318697133883
+                ],
+                "type": "Point"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "timestamp": "2024-08-15T11:00:00Z",
+                "status": "En Route",
+                "signal": 1,
+                "shipID": 3,
+                "shipName": "Minhboat",
+                "originDockId": "8",
+                "origin": "Ho Chi Minh Port",
+                "destinationDockId": "5",
+                "destination": "Bangkok Port",
+                "maxCapacity": 80,
+                "currentCapacity": 80
+            },
+            "geometry": {
+                "coordinates": [
+                    106.9834874193628,
+                    10.275116679989608
+                ],
+                "type": "Point"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "timestamp": "2024-08-15T12:00:00Z",
+                "status": "En Route",
+                "signal": 1,
+                "shipID": 3,
+                "shipName": "Minhboat",
+                "originDockId": "8",
+                "origin": "Ho Chi Minh Port",
+                "destinationDockId": "5",
+                "destination": "Bangkok Port",
+                "maxCapacity": 80,
+                "currentCapacity": 80
+            },
+            "geometry": {
+                "coordinates": [
+                    106.95166734248744,
+                    10.134788011507808
+                ],
+                "type": "Point"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "timestamp": "2024-08-15T13:00:00Z",
+                "status": "En Route",
+                "signal": 1,
+                "shipID": 3,
+                "shipName": "Minhboat",
+                "originDockId": "8",
+                "origin": "Ho Chi Minh Port",
+                "destinationDockId": "5",
+                "destination": "Bangkok Port",
+                "maxCapacity": 80,
+                "currentCapacity": 80
+            },
+            "geometry": {
+                "coordinates": [
+                    106.94768957264404,
+                    9.941321799428309
+                ],
+                "type": "Point"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "timestamp": "2024-08-15T14:00:00Z",
+                "status": "En Route",
+                "signal": 1,
+                "shipID": 3,
+                "shipName": "Minhboat",
+                "originDockId": "8",
+                "origin": "Ho Chi Minh Port",
+                "destinationDockId": "5",
+                "destination": "Bangkok Port",
+                "maxCapacity": 80,
+                "currentCapacity": 80
+            },
+            "geometry": {
+                "coordinates": [
+                    106.91522425664328,
+                    9.664593432198288
+                ],
+                "type": "Point"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "timestamp": "2024-08-15T15:00:00Z",
+                "status": "En Route",
+                "signal": 1,
+                "shipID": 3,
+                "shipName": "Minhboat",
+                "originDockId": "8",
+                "origin": "Ho Chi Minh Port",
+                "destinationDockId": "5",
+                "destination": "Bangkok Port",
+                "maxCapacity": 80,
+                "currentCapacity": 80
+            },
+            "geometry": {
+                "coordinates": [
+                    106.87189967651835,
+                    9.214780348624288
+                ],
+                "type": "Point"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "timestamp": "2024-08-15T16:00:00Z",
+                "status": "En Route",
+                "signal": 0,
+                "shipID": 3,
+                "shipName": "Minhboat",
+                "originDockId": "8",
+                "origin": "Ho Chi Minh Port",
+                "destinationDockId": "5",
+                "destination": "Bangkok Port",
+                "maxCapacity": 80,
+                "currentCapacity": 80
+            },
+            "geometry": {
+                "coordinates": [
+                    106.87189967651835,
+                    9.214780348624288
+                ],
+                "type": "Point"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "timestamp": "2024-08-15T17:00:00Z",
+                "status": "En Route",
+                "signal": 0,
+                "shipID": 3,
+                "shipName": "Minhboat",
+                "originDockId": "8",
+                "origin": "Ho Chi Minh Port",
+                "destinationDockId": "5",
+                "destination": "Bangkok Port",
+                "maxCapacity": 80,
+                "currentCapacity": 80
+            },
+            "geometry": {
+                "coordinates": [
+                    106.87189967651835,
+                    9.214780348624288
+                ],
+                "type": "Point"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "timestamp": "2024-08-15T18:00:00Z",
+                "status": "En Route",
+                "signal": 1,
+                "shipID": 3,
+                "shipName": "Minhboat",
+                "originDockId": "8",
+                "origin": "Ho Chi Minh Port",
+                "destinationDockId": "5",
+                "destination": "Bangkok Port",
+                "maxCapacity": 80,
+                "currentCapacity": 80
+            },
+            "geometry": {
+                "coordinates": [
+                    104.02855282098011,
+                    8.081732911237367
+                ],
+                "type": "Point"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "timestamp": "2024-08-15T19:00:00Z",
+                "status": "En Route",
+                "signal": 1,
+                "shipID": 3,
+                "shipName": "Minhboat",
+                "originDockId": "8",
+                "origin": "Ho Chi Minh Port",
+                "destinationDockId": "5",
+                "destination": "Bangkok Port",
+                "maxCapacity": 80,
+                "currentCapacity": 80
+            },
+            "geometry": {
+                "coordinates": [
+                    102.82762985223263,
+                    9.290467207258317
+                ],
+                "type": "Point"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "timestamp": "2024-08-15T20:00:00Z",
+                "status": "En Route",
+                "signal": 1,
+                "shipID": 3,
+                "shipName": "Minhboat",
+                "originDockId": "8",
+                "origin": "Ho Chi Minh Port",
+                "destinationDockId": "5",
+                "destination": "Bangkok Port",
+                "maxCapacity": 80,
+                "currentCapacity": 80
+            },
+            "geometry": {
+                "coordinates": [
+                    102.05678468883673,
+                    10.225066582220762
+                ],
+                "type": "Point"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "timestamp": "2024-08-15T21:00:00Z",
+                "status": "En Route",
+                "signal": 1,
+                "shipID": 3,
+                "shipName": "Minhboat",
+                "originDockId": "8",
+                "origin": "Ho Chi Minh Port",
+                "destinationDockId": "5",
+                "destination": "Bangkok Port",
+                "maxCapacity": 80,
+                "currentCapacity": 80
+            },
+            "geometry": {
+                "coordinates": [
+                    101.70229923812633,
+                    11.223556302167466
+                ],
+                "type": "Point"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "timestamp": "2024-08-15T22:00:00Z",
+                "status": "En Route",
+                "signal": 1,
+                "shipID": 3,
+                "shipName": "Minhboat",
+                "originDockId": "8",
+                "origin": "Ho Chi Minh Port",
+                "destinationDockId": "5",
+                "destination": "Bangkok Port",
+                "maxCapacity": 80,
+                "currentCapacity": 80
+            },
+            "geometry": {
+                "coordinates": [
+                    101.26047894027329,
+                    12.209468614490817
+                ],
+                "type": "Point"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "timestamp": "2024-08-15T23:00:00Z",
+                "status": "Arrived",
+                "signal": 1,
+                "shipID": 3,
+                "shipName": "Minhboat",
+                "originDockId": "8",
+                "origin": "Ho Chi Minh Port",
+                "destinationDockId": "5",
+                "destination": "Bangkok Port",
+                "maxCapacity": 80,
+                "currentCapacity": 0
+            },
+            "geometry": {
+                "coordinates": [
+                    100.88665200117731,
+                    12.929216048860255
+                ],
+                "type": "Point"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "timestamp": "2024-08-15T00:00:00Z",
+                "status": "Anchored",
+                "signal": 1,
+                "shipID": 2,
+                "shipName": "Hongboat",
+                "originDockId": "4",
+                "origin": "Hong Kong International Terminals",
+                "destinationDockId": null,
+                "destination": null,
+                "maxCapacity": 80,
+                "currentCapacity": 0
+            },
+            "geometry": {
+                "coordinates": [
+                    114.21723058784909,
+                    22.198099692903995
+                ],
+                "type": "Point"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "timestamp": "2024-08-15T01:00:00Z",
+                "status": "Anchored",
+                "signal": 1,
+                "shipID": 2,
+                "shipName": "Hongboat",
+                "originDockId": "4",
+                "origin": "Hong Kong International Terminals",
+                "destinationDockId": null,
+                "destination": null,
+                "maxCapacity": 80,
+                "currentCapacity": 0
+            },
+            "geometry": {
+                "coordinates": [
+                    114.21723058784909,
+                    22.198099692903995
+                ],
+                "type": "Point"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "timestamp": "2024-08-15T02:00:00Z",
+                "status": "Anchored",
+                "signal": 1,
+                "shipID": 2,
+                "shipName": "Hongboat",
+                "originDockId": "4",
+                "origin": "Hong Kong International Terminals",
+                "destinationDockId": null,
+                "destination": null,
+                "maxCapacity": 80,
+                "currentCapacity": 0
+            },
+            "geometry": {
+                "coordinates": [
+                    114.21723058784909,
+                    22.198099692903995
+                ],
+                "type": "Point"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "timestamp": "2024-08-15T03:00:00Z",
+                "status": "Anchored",
+                "signal": 1,
+                "shipID": 2,
+                "shipName": "Hongboat",
+                "originDockId": "4",
+                "origin": "Hong Kong International Terminals",
+                "destinationDockId": null,
+                "destination": null,
+                "maxCapacity": 80,
+                "currentCapacity": 0
+            },
+            "geometry": {
+                "coordinates": [
+                    114.21723058784909,
+                    22.198099692903995
+                ],
+                "type": "Point"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "timestamp": "2024-08-15T04:00:00Z",
+                "status": "Departed",
+                "signal": 1,
+                "shipID": 2,
+                "shipName": "Hongboat",
+                "originDockId": "4",
+                "origin": "Hong Kong International Terminals",
+                "destinationDockId": "10",
+                "destination": "Shanghai International Port",
+                "maxCapacity": 80,
+                "currentCapacity": 80
+            },
+            "geometry": {
+                "coordinates": [
+                    114.21723058784909,
+                    22.198099692903995
+                ],
+                "type": "Point"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "timestamp": "2024-08-15T05:00:00Z",
+                "status": "En Route",
+                "signal": 1,
+                "shipID": 2,
+                "shipName": "Hongboat",
+                "originDockId": "4",
+                "origin": "Hong Kong International Terminals",
+                "destinationDockId": "10",
+                "destination": "Shanghai International Port",
+                "maxCapacity": 80,
+                "currentCapacity": 80
+            },
+            "geometry": {
+                "coordinates": [
+                    116.00307688123013,
+                    21.54678739745954
+                ],
+                "type": "Point"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "timestamp": "2024-08-15T06:00:00Z",
+                "status": "En Route",
+                "signal": 1,
+                "shipID": 2,
+                "shipName": "Hongboat",
+                "originDockId": "4",
+                "origin": "Hong Kong International Terminals",
+                "destinationDockId": "10",
+                "destination": "Shanghai International Port",
+                "maxCapacity": 80,
+                "currentCapacity": 80
+            },
+            "geometry": {
+                "coordinates": [
+                    117.353483054935,
+                    22.702409552639224
+                ],
+                "type": "Point"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "timestamp": "2024-08-15T07:00:00Z",
+                "status": "En Route",
+                "signal": 1,
+                "shipID": 2,
+                "shipName": "Hongboat",
+                "originDockId": "4",
+                "origin": "Hong Kong International Terminals",
+                "destinationDockId": "10",
+                "destination": "Shanghai International Port",
+                "maxCapacity": 80,
+                "currentCapacity": 80
+            },
+            "geometry": {
+                "coordinates": [
+                    119.0580370093437,
+                    24.123094684070793
+                ],
+                "type": "Point"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "timestamp": "2024-08-15T08:00:00Z",
+                "status": "En Route",
+                "signal": 1,
+                "shipID": 2,
+                "shipName": "Hongboat",
+                "originDockId": "4",
+                "origin": "Hong Kong International Terminals",
+                "destinationDockId": "10",
+                "destination": "Shanghai International Port",
+                "maxCapacity": 80,
+                "currentCapacity": 80
+            },
+            "geometry": {
+                "coordinates": [
+                    121.04037835143606,
+                    25.739495140272737
+                ],
+                "type": "Point"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "timestamp": "2024-08-15T09:00:00Z",
+                "status": "En Route",
+                "signal": 1,
+                "shipID": 2,
+                "shipName": "Hongboat",
+                "originDockId": "4",
+                "origin": "Hong Kong International Terminals",
+                "destinationDockId": "10",
+                "destination": "Shanghai International Port",
+                "maxCapacity": 80,
+                "currentCapacity": 80
+            },
+            "geometry": {
+                "coordinates": [
+                    122.44358524365026,
+                    27.590263568911595
+                ],
+                "type": "Point"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "timestamp": "2024-08-15T10:00:00Z",
+                "status": "En Route",
+                "signal": 1,
+                "shipID": 2,
+                "shipName": "Hongboat",
+                "originDockId": "4",
+                "origin": "Hong Kong International Terminals",
+                "destinationDockId": "10",
+                "destination": "Shanghai International Port",
+                "maxCapacity": 80,
+                "currentCapacity": 80
+            },
+            "geometry": {
+                "coordinates": [
+                    123.26706504085308,
+                    29.930701842675916
+                ],
+                "type": "Point"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "timestamp": "2024-08-15T11:00:00Z",
+                "status": "En Route",
+                "signal": 1,
+                "shipID": 2,
+                "shipName": "Hongboat",
+                "originDockId": "4",
+                "origin": "Hong Kong International Terminals",
+                "destinationDockId": "10",
+                "destination": "Shanghai International Port",
+                "maxCapacity": 80,
+                "currentCapacity": 80
+            },
+            "geometry": {
+                "coordinates": [
+                    122.95555022163393,
+                    31.051709740211138
+                ],
+                "type": "Point"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "timestamp": "2024-08-15T12:00:00Z",
+                "status": "Arrived",
+                "signal": 1,
+                "shipID": 2,
+                "shipName": "Hongboat",
+                "originDockId": "10",
+                "origin": "Shanghai International Port",
+                "destinationDockId": null,
+                "destination": null,
+                "maxCapacity": 80,
+                "currentCapacity": 0
+            },
+            "geometry": {
+                "coordinates": [
+                    121.98852322119677,
+                    30.95334070184505
+                ],
+                "type": "Point"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "timestamp": "2024-08-15T13:00:00Z",
+                "status": "Anchored",
+                "signal": 1,
+                "shipID": 2,
+                "shipName": "Hongboat",
+                "originDockId": "10",
+                "origin": "Shanghai International Port",
+                "destinationDockId": null,
+                "destination": null,
+                "maxCapacity": 80,
+                "currentCapacity": 0
+            },
+            "geometry": {
+                "coordinates": [
+                    121.98852322119677,
+                    30.95334070184505
+                ],
+                "type": "Point"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "timestamp": "2024-08-15T14:00:00Z",
+                "status": "Anchored",
+                "signal": 1,
+                "shipID": 2,
+                "shipName": "Hongboat",
+                "originDockId": "10",
+                "origin": "Shanghai International Port",
+                "destinationDockId": null,
+                "destination": null,
+                "maxCapacity": 80,
+                "currentCapacity": 0
+            },
+            "geometry": {
+                "coordinates": [
+                    121.98852322119677,
+                    30.95334070184505
+                ],
+                "type": "Point"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "timestamp": "2024-08-15T15:00:00Z",
+                "status": "Anchored",
+                "signal": 1,
+                "shipID": 2,
+                "shipName": "Hongboat",
+                "originDockId": "10",
+                "origin": "Shanghai International Port",
+                "destinationDockId": null,
+                "destination": null,
+                "maxCapacity": 80,
+                "currentCapacity": 0
+            },
+            "geometry": {
+                "coordinates": [
+                    121.98852322119677,
+                    30.95334070184505
+                ],
+                "type": "Point"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "timestamp": "2024-08-15T16:00:00Z",
+                "status": "Anchored",
+                "signal": 1,
+                "shipID": 2,
+                "shipName": "Hongboat",
+                "originDockId": "10",
+                "origin": "Shanghai International Port",
+                "destinationDockId": null,
+                "destination": null,
+                "maxCapacity": 80,
+                "currentCapacity": 0
+            },
+            "geometry": {
+                "coordinates": [
+                    121.98852322119677,
+                    30.95334070184505
+                ],
+                "type": "Point"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "timestamp": "2024-08-15T17:00:00Z",
+                "status": "Anchored",
+                "signal": 1,
+                "shipID": 2,
+                "shipName": "Hongboat",
+                "originDockId": "10",
+                "origin": "Shanghai International Port",
+                "destinationDockId": null,
+                "destination": null,
+                "maxCapacity": 80,
+                "currentCapacity": 0
+            },
+            "geometry": {
+                "coordinates": [
+                    121.98852322119677,
+                    30.95334070184505
+                ],
+                "type": "Point"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "timestamp": "2024-08-15T18:00:00Z",
+                "status": "Anchored",
+                "signal": 1,
+                "shipID": 2,
+                "shipName": "Hongboat",
+                "originDockId": "10",
+                "origin": "Shanghai International Port",
+                "destinationDockId": null,
+                "destination": null,
+                "maxCapacity": 80,
+                "currentCapacity": 0
+            },
+            "geometry": {
+                "coordinates": [
+                    121.98852322119677,
+                    30.95334070184505
+                ],
+                "type": "Point"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "timestamp": "2024-08-15T19:00:00Z",
+                "status": "Anchored",
+                "signal": 1,
+                "shipID": 2,
+                "shipName": "Hongboat",
+                "originDockId": "10",
+                "origin": "Shanghai International Port",
+                "destinationDockId": null,
+                "destination": null,
+                "maxCapacity": 80,
+                "currentCapacity": 0
+            },
+            "geometry": {
+                "coordinates": [
+                    121.98852322119677,
+                    30.95334070184505
+                ],
+                "type": "Point"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "timestamp": "2024-08-15T20:00:00Z",
+                "status": "Anchored",
+                "signal": 1,
+                "shipID": 2,
+                "shipName": "Hongboat",
+                "originDockId": "10",
+                "origin": "Shanghai International Port",
+                "destinationDockId": null,
+                "destination": null,
+                "maxCapacity": 80,
+                "currentCapacity": 0
+            },
+            "geometry": {
+                "coordinates": [
+                    121.98852322119677,
+                    30.95334070184505
+                ],
+                "type": "Point"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "timestamp": "2024-08-15T21:00:00Z",
+                "status": "Anchored",
+                "signal": 1,
+                "shipID": 2,
+                "shipName": "Hongboat",
+                "originDockId": "10",
+                "origin": "Shanghai International Port",
+                "destinationDockId": null,
+                "destination": null,
+                "maxCapacity": 80,
+                "currentCapacity": 0
+            },
+            "geometry": {
+                "coordinates": [
+                    121.98852322119677,
+                    30.95334070184505
+                ],
+                "type": "Point"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "timestamp": "2024-08-15T22:00:00Z",
+                "status": "Anchored",
+                "signal": 1,
+                "shipID": 2,
+                "shipName": "Hongboat",
+                "originDockId": "10",
+                "origin": "Shanghai International Port",
+                "destinationDockId": null,
+                "destination": null,
+                "maxCapacity": 80,
+                "currentCapacity": 0
+            },
+            "geometry": {
+                "coordinates": [
+                    121.98852322119677,
+                    30.95334070184505
+                ],
+                "type": "Point"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "timestamp": "2024-08-15T23:00:00Z",
+                "status": "Anchored",
+                "signal": 1,
+                "shipID": 2,
+                "shipName": "Hongboat",
+                "originDockId": "10",
+                "origin": "Shanghai International Port",
+                "destinationDockId": null,
+                "destination": null,
+                "maxCapacity": 80,
+                "currentCapacity": 0
+            },
+            "geometry": {
+                "coordinates": [
+                    121.98852322119677,
+                    30.95334070184505
+                ],
+                "type": "Point"
+            }
+        }
+    ]
+}

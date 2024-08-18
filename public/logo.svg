@@ -1,0 +1,12 @@
+<svg preserveAspectRatio="xMidYMid meet" data-bbox="100.508 23.246 174 328.5" height="500" viewBox="100.508 23.246 174 328.5" width="500" xmlns="http://www.w3.org/2000/svg" data-type="shape" role="presentation" aria-hidden="true" aria-label="">
+        <g>
+            <defs>
+                <clipPath id="c363687a-c396-43d9-8327-ca81e0af4ccd_comp-lx64npl5_r_comp-liu7a4zw">
+                    <path d="M100.45 23.246h174v328.5h-174Zm0 0"></path>
+                </clipPath>
+            </defs>
+            <g clip-path="url(#c363687a-c396-43d9-8327-ca81e0af4ccd_comp-lx64npl5_r_comp-liu7a4zw)">
+                <path d="M173.824 200.535h27.27v151.211l-100.586-57.219V82.211l52.68 29.598v28.55l-25.391-14.507V278.66l46.047 26.195Zm.078-177.289v151.207h27.27V70.137l46.047 26.176v152.82l-25.395-14.508v28.55l52.684 29.598V80.461Zm0 0"></path>
+            </g>
+        </g>
+    </svg>
